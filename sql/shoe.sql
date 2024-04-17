@@ -152,8 +152,8 @@ CREATE TABLE `shoe_image` (
 --
 
 INSERT INTO `shoe_image` (`id`, `shoe_id`, `link_image`) VALUES
-(1, 16, 'imageShoe/mwc1.jpg'),
-(2, 16, 'imageShoe/mwc3.jpg'),
+(1, 16, 'imageShoe/mwc.jpg'),
+(2, 16, 'imageShoe/mwc1.jpg'),
 (3, 16, 'imageShoe/mwc4.jpg'),
 (4, 15, 'imageShoe/mwc5.jpg'),
 (5, 15, 'imageShoe/mwc6.jpg'),
@@ -176,7 +176,7 @@ INSERT INTO `shoe_image` (`id`, `shoe_id`, `link_image`) VALUES
 (34, 26, 'imageShoe/mwc23.jpg'),
 (35, 27, 'imageShoe/mwc24.jpg'),
 (36, 27, 'imageShoe/mwc25.png'),
-(37, 27, 'imageShoe/mwc26.png');
+(37, 27, 'imageShoe/mwc26.jpg');
 
 -- --------------------------------------------------------
 
